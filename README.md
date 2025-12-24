@@ -1,7 +1,7 @@
 # II
 welcome to II [2] our custom os / made with assembly and tested in qemu & virtualbox (linux)
 
-# Docs
+# [Docs](docs.md)
 
 If you want to learn more read ours docs!
 
