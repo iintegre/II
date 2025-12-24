@@ -1,7 +1,7 @@
 # [II25](https://iintegre.github.io)
 welcome to II [2] our custom os / made with assembly and tested in qemu & virtualbox (linux)
 
-# [Docs](docs.md)
+# [Docs/Wiki](wiki)
 
 If you want to learn more read ours docs!
 
