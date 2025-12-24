@@ -13,3 +13,5 @@ Data here might be outdated or will not work properly!
 # Disclaimer
 We used for some parts of our os AI ( just for notes and help [zb iso builder] ) the main part was made by us!
 Right now the program is technically not open source (you can view but are not allowed to redistribute or modify) , tho this might be changed in the future.
+
+[source might be outdated because our project is not officially "Open source"]
